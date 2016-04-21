@@ -1,0 +1,18 @@
+{
+  "name": "JD3",
+  "description": "japan day cje",
+  "main": "app",
+  "authors": [
+    "Narmy"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "japan"
+  ],
+  "homepage": "",
+  "dependencies": {
+    "crypto-js": "^3.1.6",
+    "sha1": "https://crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/sha1.js",
+    "angular-local-storage": "^0.2.7"
+  }
+}
